@@ -19,5 +19,5 @@ frontend d-gunju-tech-frontend
 
 backend d-gunju-tech-backend
 	balance roundrobin
-	server 453-web-01 100.25.164.247:80 check
-	server 453-web-02 52.3.248.4:80 check
+	server 453-web-01 35.243.128.200:80 check
+	server 453-web-02 3.239.120.96:80 check
