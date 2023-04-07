@@ -40,7 +40,7 @@ frontend d-gunju-tech-frontend
 
 backend d-gunju-tech-backend
     balance roundrobin
-    server 152973-web-01 100.25.164.248:80 check
+    server 152973-web-01 100.25.164.247:80 check
     server 152973-web-02 52.3.248.4:80 check
 "
 
